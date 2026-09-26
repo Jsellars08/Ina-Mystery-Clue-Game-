@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Clue 5 - The Library</title>
+
+  <style>
+
+    body {
+
+      background-color: #111;
+
+      color: #f5f5f5;
+
+      font-family: Georgia, serif;
+
+      text-align: center;
+
+      margin: 0;
+
+      padding: 25px;
+
+    }
+
+    .clue-box {
+
+      max-width: 600px;
+
+      margin: auto;
+
+      background-color: #1c1c1c;
+
+      border: 3px solid #8b0000;
+
+      border-radius: 15px;
+
+      padding: 30px 20px;
+
+      box-shadow: 0 0 20px #8b0000;
+
+    }
+
+    h1 {
+
+      color: #c62828;
+
+      font-size: 38px;
+
+      margin-bottom: 5px;
+
+    }
+
+    h2 {
+
+      color: #d4af37;
+
+    }
+
+    .story {
+
+      font-size: 20px;
+
+      line-height: 1.6;
+
+    }
+
+    .evidence {
+
+      margin: 25px 0;
+
+      padding: 20px;
+
+      background-color: #292929;
+
+      border-left: 5px solid #d4af37;
+
+    }
+
+    .notes {
+
+      color: #d4af37;
+
+      font-size: 19px;
+
+      margin-top: 25px;
+
+    }
+
+    .next {
+
+      display: inline-block;
+
+      margin-top: 25px;
+
+      padding: 15px 25px;
+
+      background-color: #8b0000;
+
+      color: white;
+
+      border-radius: 8px;
+
+      font-weight: bold;
+
+      font-size: 18px;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <div class="clue-box">
+
+    <h1>🔎 CLUE 5</h1>
+
+    <h2>THE LIBRARY</h2>
+
+    <div class="story">
+
+      <p><strong>Someone was searching for something...</strong></p>
+
+      <p>
+
+        Several books have been pulled from the shelves,
+
+        but one thing catches your attention.
+
+      </p>
+
+      <div class="evidence">
+
+        Behind a row of books, investigators discover a
+
+        <strong>CANDLESTICK</strong> wrapped in a cloth.
+
+      </div>
+
+      <p>
+
+        There are no fingerprints.
+
+        <br><br>
+
+        Someone made sure of that.
+
+      </p>
+
+    </div>
+
+    <div class="notes">
+
+      📝 DETECTIVE NOTES<br><br>
+
+      ROOM: LIBRARY<br>
+
+      WEAPON: CANDLESTICK
+
+    </div>
+
+    <p>
+
+      <strong>
+
+        Every clue eliminates a possibility.
+
+        Keep track of what you find.
+
+      </strong>
+
+    </p>
+
+    <div class="next">
+
+      🔎 FIND CLUE 6
+
+    </div>
+
+  </div>
+
+</body>
+
+</html>
